@@ -1,0 +1,42 @@
+Idea :
+	Dispositivo de proximidad análogo, que emita un sonido a cierta distancia de un obstáculo
+	Enfocado para personas con discapacidad visual (parcial o completa)
+
+Material :
+
+	Sensor distancia Sharp GP2Y0A02YK0F 20 a 150 cm (SKU 564G3)
+
+Modelo :
+	SIN PROTOTIPO AUN
+
+Diseño :
+	SIN PROTOTIPO AUN
+
+
+
+- Prototipo : 
+		- 1er Diseño cabeza descartado
+		- 2do Diseño cabeza descartado
+		- 3er Diseño pecho descartado
+		- 4to Diseño pecho zona superior a considerar
+		- 5to Diseño cuello zona inferior a considerar
+
+
+- 10% :
+	- Presentación de avance ante la clase
+	- Preguntas
+	- Investigación
+	- Voluntariado
+
+
+- Avance Hasta el 30% :
+
+			- Investigación de Documentos del Sensor
+			- Investigación de Baterias y Voltajes
+			- Recurso Humano ( Voluntariado )
+			- Obtención del Sensor
+			- Análisis del Sensor según documentación
+			- Avance Prototipo
+
+
+
