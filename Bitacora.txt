@@ -37,6 +37,7 @@ Diseño :
 			- Obtención del Sensor
 			- Análisis del Sensor según documentación
 			- Avance Prototipo
+			- Investigacion de materiales
 
 
 
