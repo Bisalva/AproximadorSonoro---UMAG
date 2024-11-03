@@ -32,12 +32,11 @@ Diseño :
 - Avance Hasta el 30% :
 
 			- Investigación de Documentos del Sensor
-			- Investigación de Baterias y Voltajes
+			- Investigación de Baterias y Voltajes - Básico
 			- Recurso Humano ( Voluntariado )
 			- Obtención del Sensor
 			- Análisis del Sensor según documentación
 			- Avance Prototipo
-			- Investigacion de materiales
 
 
 
