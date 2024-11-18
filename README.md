@@ -1,6 +1,6 @@
 # Aproximador Sonoro , Proyecto Umag (Topicos C)
 
-- **Profesores : Pedro Alberti (Guia) , Eduardo Peña, Patricia Maldonado**
+- **Profesores : Pedro Alberti (Guía) , Eduardo Peña(Guía), Patricia Maldonado**
 
 >[!note]
 > Dispositivo detector de obstaculos a una distancia de hasta 1,5 metros, con enfoque a discapacidad visual parcial o completa
